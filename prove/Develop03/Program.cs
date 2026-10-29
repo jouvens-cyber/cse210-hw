@@ -1,6 +1,6 @@
 using System;
 
-// Exceeding requirements:
+// Exceeding requirements
 // I made the program only choose words that are still visible when
 // hiding random words. This prevents it from choosing words that
 // have already been hidden, so new words disappear each round.
